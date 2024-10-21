@@ -17,3 +17,4 @@ Example: ```man traceroute```
 | To stop/kill a process                                                                                          | `kill -9 <process_id>`                                             |
 | __Security__                                                                                                    |                                                                    |
 | Creating a SSH Key                                                                                              | `ssh-keygen -t <algorith_type> -b <key_size>`                      |
+| Two switch to root                                                                                              | `sudo -i`                                                          |
