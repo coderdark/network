@@ -1,6 +1,8 @@
 # Network Commands
 
-### For more info in each of the commands you can use the manual ```man```  for each of the commands below
+For more info in each of the commands you can use the manual ```man```  for each of the commands below.
+Example: ```man traceroute```
+
 
 | Description                                                    | Command                               |
 |----------------------------------------------------------------|---------------------------------------|
