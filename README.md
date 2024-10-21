@@ -7,9 +7,9 @@ Example: ```man traceroute```
 | Description                                                                            | Command                                 |
 |----------------------------------------------------------------------------------------|-----------------------------------------|
 | __Network__                                                                            |                                         |
-| To see if a site is up and running                                                     | `ping <domain>`                         |
-| To trace the path to a domain, or see delays                                           | `traceroute <domain>`                   |
-| To get more info from a domain                                                         | `netstat <domain>`                      |
+| To get the status of a network host                                                    | `ping <domain>`                         |
+| To trace the path to a domain                                                          | `traceroute <domain>`                   |
+| To get network status                                                                  | `netstat <domain>`                      |
 | To get the nameservers for a domain                                                    | `nslookup <domain>`                     |
 | To get the dns records for a domain                                                    | `dig <domain>`                          |
 | __Processes__                                                                          |                                         |
