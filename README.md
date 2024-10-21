@@ -6,7 +6,7 @@ Example: ```man traceroute```
 
 | Description                                                    | Command                                 |
 |----------------------------------------------------------------|-----------------------------------------|
-| __Network __                                                       |                                         |
+| __Network__                                                    |                                         |
 | To see if a site is up and running                             | `ping domain.com`                       |
 | To trace the path to a domain, or see delays                   | `traceroute domain.com`                 |
 | To get more info from a domain                                 | `netstat domain.com`                    |
