@@ -18,3 +18,8 @@ Example: ```man traceroute```
 | __Security__                                                                                                    |                                                                    |
 | Creating a SSH Key                                                                                              | `ssh-keygen -t <algorith_type> -b <key_size>`                      |
 | Two switch to root                                                                                              | `sudo -i`                                                          |
+| __Reading File__                                                                                                |                                                                    |
+| Outputs last part of the file                                                                                   | `tail`                                                             |
+| Outputs the first part of the file                                                                              | `head`                                                             |
+| Outputs the data in pages                                                                                       | `less`                                                             |
+| Outputs the complete data in a file                                                                             | `cat`                                                              |
