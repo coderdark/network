@@ -25,3 +25,4 @@ logs are usually found in ```/var/logs```
 | Outputs the first part of the file                                                                              | `head`                                                             |
 | Outputs the data in pages                                                                                       | `less`                                                             |
 | Outputs the complete data in a file                                                                             | `cat`                                                              |
+| Finds where a directory/app/file is                                                                             | `whereis <item_name>`                                              |
